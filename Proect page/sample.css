@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0%;
+
+ }
+ .header_img 
+ {
+
+    width: 100%;
+ }
+ #navbar 
+ {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    font-size: 1.3rem;
+ }
+ ul
+ {
+    display: flex;
+    list-style: none;
+ }
+
+.item
+{
+
+
+}
